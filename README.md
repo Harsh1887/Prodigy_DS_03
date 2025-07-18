@@ -12,7 +12,6 @@ This project explores how demographic and behavioral attributes influence a clie
 
 ## 📊 Dataset Information
 
-- **Source**: [UCI Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing)  
 - **Instances**: 41,188 client records  
 - **Objective**: Predict the binary target variable `y` — whether the client subscribed to a term deposit (`yes`/`no`)
 
